@@ -1,0 +1,7 @@
+parameters:
+    remedge.yandex_translate.manager.class: Remedge\YandexTranslateBundle\Manager\TranslateManager
+
+services:
+    remedge.yandex_translate.manager:
+        class: %remedge.yandex_translate.manager.class%
+        arguments: [ %remedge_yandex_translate.api_key% ]
