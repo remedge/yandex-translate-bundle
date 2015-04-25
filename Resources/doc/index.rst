@@ -35,7 +35,7 @@ register the new bundle:
     // in AppKernel::registerBundles()
     $bundles = array(
         // ...
-        new Remedge\YandexTranslateBundle\YandexTranslateBundle(),
+        new Remedge\YandexTranslateBundle\RemedgeYandexTranslateBundle(),
         // ...
     );
 
