@@ -13,7 +13,7 @@
   "autoload": {
     "psr-0": { "Remedge\\YandexTranslateBundle": "" }
   },
-  "target-dir": "Remedge/GoogleTranslateBundle",
+  "target-dir": "Remedge/YandexTranslateBundle",
   "authors": [
     {
       "name": "Alexander Dorozhkin",
