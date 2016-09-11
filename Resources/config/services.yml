@@ -3,5 +3,5 @@ parameters:
 
 services:
     remedge.yandex_translate.manager:
-        class: %remedge.yandex_translate.manager.class%
-        arguments: [ %remedge_yandex_translate.api_key% ]
+        class: '%remedge.yandex_translate.manager.class%'
+        arguments: [ '%remedge_yandex_translate.api_key%' ]
